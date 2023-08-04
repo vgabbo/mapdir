@@ -1,0 +1,13 @@
+HTMLProgetto1
+|-----> css
+|   |-----> css.css
+|-----> images
+|   |-----> IMG_20230716_164912.jpg
+|   |-----> IMG_20230716_172621.jpg
+|-----> js
+|   |-----> randomimg.js
+|   |-----> script.js
+|-----> other
+|   |-----> *
+|-----> spinning.html
+|-----> website.html
